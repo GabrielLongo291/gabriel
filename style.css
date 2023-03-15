@@ -1,0 +1,20 @@
+* {
+   margin: 0;
+   padding: 0;}
+body {background-color: #72101a;
+color: black;
+}
+.header {background-color: #72101a;
+color: black;
+display: flex;
+justify-content: space-around;
+padding: 24px 0;}
+.header-image{width: 
+    15%;
+}
+.header-item-list{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 32px;
+}
